@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">2018038020박정은</string>
+    <string name="strBtn1">글자 나타내기</string>
+    <string name="strBtn2">홈페이지 열기</string>
+    <string name="strRadio">오레오</string>
+    <string name="strRadio2">파이</string>
+    <string name="hint">홈페이지 주소를 입력하세요!</string>
+    <string name="todo">TODO</string>
+
+</resources>
